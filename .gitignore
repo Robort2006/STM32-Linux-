@@ -1,0 +1,24 @@
+# ---- Keil 编译产物（不入库）----
+Objects/
+Listings/
+DebugConfig/
+*.o
+*.crf
+*.d
+*.dep
+*.hex
+*.lnp
+*.map
+*.lst
+*.scr
+*.htm
+*.bak
+
+# ---- Keil 个人/IDE 窗口状态（只保留工程定义 .uvprojx）----
+*.uvguix.*
+*.uvoptx
+
+# ---- 临时/杂项 ----
+0
+*.tmp
+*.log
